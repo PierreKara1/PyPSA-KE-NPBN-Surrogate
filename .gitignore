@@ -1,0 +1,69 @@
+# SPDX-FileCopyrightText:  PyPSA-Earth and PyPSA-Eur Authors
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__
+*.py[cod]
+*$py.class
+
+# Jupyter-related files
+.ipynb_checkpoints
+
+# General untracked file formats
+*.log
+**/pbf
+*.pbf
+*.zip
+*.png
+*.done
+*.tif
+# *.csv
+*.geojson
+*.nc
+*.xls
+*.xlsx
+*.org
+*~
+*.dot
+*.gpkg
+*.shp
+*.pdf
+
+# Specific untracked files
+config.yaml
+dag.svg
+gurobi.log
+gadm_shapes.geojson
+doc/*.vscode/settings.json
+
+# Untracked folders (and files within)
+bak
+benchmarks/
+backup*
+benchmarks/
+logs/
+networks/
+resources/
+results/
+.snakemake*
+
+# VS Code-related files
+.vscode
+*.code-workspace
+*.vscode/settings.json
+
+# Supplementary / Literature benchmark datasets (not retrieved via automatic workflow)
+!data/agg_p_nom*
+!data/costs_*
+!data/custom_*
+!data/eia_*
+!data/phs*
+.DS_Store
+**/.DS_Store
+generate_summary_table.ipynb
+*.xlsx
+data/ssp*
+data/hydrobasins*
+data/landcover*
+

@@ -1,0 +1,46 @@
+technology,year,parameter,value,unit,source
+onwind,2050,lifetime,20,years,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+onwind,2050,investment,887.5,USD/kWel,Kenya ETIP 2050 - https://energy.go.ke/sites/default/files/KAWI/Kenya-ETIP-2050%202.pdf
+onwind,2050,FOM,8.6,%/year,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+onwind,2050,VOM,0,USD/MWhel,https://kcv.co.ke/wp-content/uploads/2020/07/Kenya-PGTMP-Final-LTP-Vol-I-Main-Report-October-2016.pdf
+hydro,2050,lifetime,100,years,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+hydro,2050,investment,3550,USD/kWel,https://www.uts.edu.au/globalassets/sites/default/files/2025-03/UTS-Africa-Power-Report-Kenya-WEB2.pdf
+hydro,2050,FOM,0.5,%/year,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+hydro,2050,efficiency,0.9,per unit,DIW DataDoc http://hdl.handle.net/10419/80348
+ror,2050,lifetime,100,years,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+ror,2050,investment,3000,USD/kWel,DIW DataDoc http://hdl.handle.net/10419/80348 and https://www.sciencedirect.com/science/article/pii/S2211467X24000191
+ror,2050,FOM,0.5,%/year,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+ror,2050,VOM,0.5,USD/MWhel,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+ror,2050,efficiency,0.9,per unit,DIW DataDoc http://hdl.handle.net/10419/80348
+CCGT,2050,lifetime,20,years,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+CCGT,2050,investment,667,USD/kWel,Kenya ETIP 2050 - Page 48 - https://energy.go.ke/sites/default/files/KAWI/Kenya-ETIP-2050%202.pdf
+CCGT,2050,FOM,4.95,%/year,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+CCGT,2050,VOM,13.4,USD/MWhel,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+CCGT,2050,efficiency,0.58,per unit,DIW DataDoc http://hdl.handle.net/10419/80348
+CCGT,2050,CO2 intensity,0.35,tCO2/MWth,https://www.sciencedirect.com/science/article/pii/S1876610211003195
+gas,2050,CO2 intensity,0.35,tCO2/MWth,https://zenodo.org/records/7539097
+gas,2050,fuel,43.2,USD/MWhth,https://www.uts.edu.au/globalassets/sites/default/files/2025-03/UTS-Africa-Power-Report-Kenya-WEB2.pdf - page 44
+geothermal,2050,lifetime,25,years,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+geothermal,2050,investment,2100,USD/kWel,Kenya ETIP 2050 - Page 48 - https://energy.go.ke/sites/default/files/KAWI/Kenya-ETIP-2050%202.pdf
+geothermal,2050,FOM,7.52,%/year,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+geothermal,2050,VOM,0,USD/MWhel,https://kcv.co.ke/wp-content/uploads/2020/07/Kenya-PGTMP-Final-LTP-Vol-I-Main-Report-October-2016.pdf
+geothermal,2050,CO2 intensity,0.02,tCO2/MWth,https://www.sciencedirect.com/science/article/pii/S0160412019318689
+oil,2050,lifetime,20,years,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+oil,2050,investment,908,USD/kWel,https://www.uts.edu.au/globalassets/sites/default/files/2025-03/UTS-Africa-Power-Report-Kenya-WEB2.pdf - page 44 (Diesel)
+oil,2050,FOM,3.52,%/year,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+oil,2050,VOM,9,USD/MWhel,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf
+oil,2050,fuel,37.8,USD/MWhth,https://www.uts.edu.au/globalassets/sites/default/files/2025-03/UTS-Africa-Power-Report-Kenya-WEB2.pdf - page 44
+oil,2050,efficiency,0.35,per unit,DOI 10.21608/PESJ.2025.352971.1009
+oil,2050,CO2 intensity,0.2,tCO2/MWth,DOI 10.21608/PESJ.2025.352971.1009
+battery inverter,2050,investment,280,USD/kWel,Cole and Karmakar (2023) (mid prediction for 2050) - 310 for marginal median
+battery inverter,2050,lifetime,15,years,Cole and Karmakar (2023)
+battery inverter,2050,efficiency,0.92,per unit charge/discharge,https://data.nlr.gov/submissions/145
+battery inverter,2050,FOM,2.5,%/year,Cole and Karmakar (2023) - 
+battery storage,2050,investment,156,USD/kWh,Cole and Karmakar (2023) (mid prediction for 2050) - 173 for marginal median
+battery storage,2050,lifetime,15,years,Cole and Karmakar (2023)
+HVAC overhead,2050,investment,610,USD/MW/km,https://kcv.co.ke/wp-content/uploads/2020/07/Kenya-PGTMP-Final-LTP-Vol-I-Main-Report-October-2016.pdf
+HVAC overhead,2050,lifetime,40,years,Hagspiel
+HVAC overhead,2050,FOM,2,%/year,Hagspiel
+solar-utility,2050,lifetime,20,years,PGMTP (2016) -https://kcv.co.ke/wp-content/uploads/2020/07/Kenya-PGTMP-Final-LTP-Vol-I-Main-Report-October-2016.pdf
+solar-utility,2050,investment,389,USD/kWel, 395 for marginal median - Kenya ETIP 2050 - Page 48 - https://energy.go.ke/sites/default/files/KAWI/Kenya-ETIP-2050%202.pdf
+solar-utility,2050,FOM,6.68,%/year,PGMTP (2016) - Page 116 - https://kcv.co.ke/wp-content/uploads/2025/07/Kenya-PGTMP-Final-LTP-EE-Report-October-2016.pdf

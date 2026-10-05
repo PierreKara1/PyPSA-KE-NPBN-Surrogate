@@ -1,0 +1,12 @@
+project_name,capacity_mw,carrier,lat,lon
+Strathmore University,0.25,solar,-1.310165,36.813093
+Malindi,40.0,solar,-3.20709,39.7442
+Selenkei,40.0,solar,0.42597,35.3603
+Eldosol,40.0,solar,0.42597,35.3603
+REA Garissa Solar,50.0,solar,-0.338022,39.600022
+Alten Solar,44.0,solar, 0.413056,35.401111
+Lake Turkana Wind Power,310.0,onwind,2.489546,36.795395
+Ngong 1 Phase I,5.1,onwind,-1.381111,36.635556
+Ngong 1 Phase II,6.8,onwind,-1.381111,36.635556
+Ngong II,13.6,onwind,-1.381111,36.635556
+Kipeto I,100.0,onwind,-1.719361,36.69453

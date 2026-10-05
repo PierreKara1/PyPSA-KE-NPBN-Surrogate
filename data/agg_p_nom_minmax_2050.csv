@@ -1,0 +1,4 @@
+country,carrier,min,max
+KE,geothermal,0,10000
+KE,solar,0,60000
+KE,onwind,0,18000
